@@ -1,5 +1,3 @@
-
-
 FROM clouder/clouder-odoo-files8
 MAINTAINER Yannick Buron yburon@goclouder.net
 
